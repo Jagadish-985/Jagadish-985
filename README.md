@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm B Jagadish</h1>
 <h3 align="center">A B.Tech student passionate for Cybersecurity</h3>
 
-- 🌱 I’m currently learning **AI-ML , Web Development , Cybersecurity, Hardware**
+- 🌱 Currently diving into **AI-ML , Web Development , Cybersecurity, Hardware**
 
 - 📫 How to reach me **jagadish.985@outlook.com**
 
